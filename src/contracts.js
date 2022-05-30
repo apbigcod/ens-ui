@@ -1,14 +1,14 @@
 import {Contract} from 'ethers'
 
-import ensContract from '@impervious/forever-contracts/build/contracts/ENSRegistry.json'
-import reverseRegistrarContract from '@impervious/forever-contracts/build/contracts/ReverseRegistrar.json'
-import resolverContract from '@impervious/forever-contracts/build/contracts/Resolver.json'
-import dnsResolverContract from '@impervious/forever-contracts/build/contracts/DNSResolver.json'
-import testRegistrarContract from '@impervious/forever-contracts/build/contracts/TestRegistrar.json'
-import dnsRegistrarContract from '@impervious/forever-contracts/build/contracts/DNSRegistrar.json'
-import permanentRegistrarContract from '@impervious/forever-contracts/build/contracts/BaseRegistrarImplementation.json'
+import ensContract from '@apbigcod/nns-contracts/build/contracts/ENSRegistry.json'
+import reverseRegistrarContract from '@apbigcod/nns-contracts/build/contracts/ReverseRegistrar.json'
+import resolverContract from '@apbigcod/nns-contracts/build/contracts/Resolver.json'
+import dnsResolverContract from '@apbigcod/nns-contracts/build/contracts/DNSResolver.json'
+import testRegistrarContract from '@apbigcod/nns-contracts/build/contracts/TestRegistrar.json'
+import dnsRegistrarContract from '@apbigcod/nns-contracts/build/contracts/DNSRegistrar.json'
+import permanentRegistrarContract from '@apbigcod/nns-contracts/build/contracts/BaseRegistrarImplementation.json'
 import permanentRegistrarControllerContract
-    from '@impervious/forever-contracts/build/contracts/ETHRegistrarController.json'
+    from '@apbigcod/nns-contracts/build/contracts/ETHRegistrarControllerWithReservation.json'
 
 // legacy contracts
 import {abi as legacyAuctionRegistrarContract} from '@ensdomains/contracts/abis/ens/HashRegistrar'
