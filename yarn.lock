@@ -48,9 +48,9 @@
     "@jridgewell/gen-mapping" "^0.1.0"
     "@jridgewell/trace-mapping" "^0.3.9"
 
-"@apbigcod/nns-contracts@https://github.com/apbigcod/nns-contracts.git#670778cd5257a6958f45064990afc07ff3417694":
+"@apbigcod/nns-contracts@https://github.com/apbigcod/nns-contracts.git#332d670eb600ff5e91ce451c80700a8ed4701029":
   version "0.0.5"
-  resolved "https://github.com/apbigcod/nns-contracts.git#670778cd5257a6958f45064990afc07ff3417694"
+  resolved "https://github.com/apbigcod/nns-contracts.git#332d670eb600ff5e91ce451c80700a8ed4701029"
   dependencies:
     "@ensdomains/buffer" "^0.0.13"
     "@ensdomains/solsha1" "0.0.3"

@@ -47,7 +47,7 @@
     "@ensdomains/address-encoder": "^0.2.5",
     "@ensdomains/content-hash": "^2.5.3",
     "@ensdomains/contracts": "^0.0.1",
-	  "@apbigcod/nns-contracts": "https://github.com/apbigcod/nns-contracts.git#670778cd5257a6958f45064990afc07ff3417694",
+	  "@apbigcod/nns-contracts": "https://github.com/apbigcod/nns-contracts.git#332d670eb600ff5e91ce451c80700a8ed4701029",
     "@ensdomains/dnsprovejs": "^0.2.0",
     "@ensdomains/mock": "^2.0.34",
     "@ethvault/iframe-provider": "0.1.9",
