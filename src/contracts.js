@@ -8,7 +8,7 @@ import testRegistrarContract from '@apbigcod/nns-contracts/build/contracts/TestR
 import dnsRegistrarContract from '@apbigcod/nns-contracts/build/contracts/DNSRegistrar.json'
 import permanentRegistrarContract from '@apbigcod/nns-contracts/build/contracts/BaseRegistrarImplementation.json'
 import permanentRegistrarControllerContract
-    from '@apbigcod/nns-contracts/build/contracts/ETHRegistrarControllerWithReservation.json'
+    from '@apbigcod/nns-contracts/build/contracts/NNSRegistrarControllerWithReservation.json'
 
 // legacy contracts
 import {abi as legacyAuctionRegistrarContract} from '@ensdomains/contracts/abis/ens/HashRegistrar'
